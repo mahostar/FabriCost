@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.manifest
+
+# Inno Setup output
+installer_output/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Inno Setup installer binary (too large for git)
+innosetup-6.6.1.exe

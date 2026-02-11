@@ -1,0 +1,19 @@
+Requirement already satisfied: Pillow in c:\users\mouha\desktop\travail\3dprix\.venv\lib\site-packages (12.1.1)
+Collecting reportlab
+  Using cached reportlab-4.4.9-py3-none-any.whl.metadata (1.7 kB)
+Requirement already satisfied: pywin32 in c:\users\mouha\desktop\travail\3dprix\.venv\lib\site-packages (311)
+Collecting pyinstaller
+  Using cached pyinstaller-6.18.0-py3-none-win_amd64.whl.metadata (8.5 kB)
+Requirement already satisfied: charset-normalizer in c:\users\mouha\desktop\travail\3dprix\.venv\lib\site-packages (from reportlab) (3.4.4)
+Requirement already satisfied: altgraph in c:\users\mouha\desktop\travail\3dprix\.venv\lib\site-packages (from pyinstaller) (0.17.5)
+Requirement already satisfied: packaging>=22.0 in c:\users\mouha\desktop\travail\3dprix\.venv\lib\site-packages (from pyinstaller) (26.0)
+Requirement already satisfied: pefile>=2022.5.30 in c:\users\mouha\desktop\travail\3dprix\.venv\lib\site-packages (from pyinstaller) (2024.8.26)
+Collecting pyinstaller-hooks-contrib>=2025.9 (from pyinstaller)
+  Using cached pyinstaller_hooks_contrib-2026.0-py3-none-any.whl.metadata (16 kB)
+Requirement already satisfied: pywin32-ctypes>=0.2.1 in c:\users\mouha\desktop\travail\3dprix\.venv\lib\site-packages (from pyinstaller) (0.2.3)
+Requirement already satisfied: setuptools>=42.0.0 in c:\users\mouha\desktop\travail\3dprix\.venv\lib\site-packages (from pyinstaller) (82.0.0)
+Using cached reportlab-4.4.9-py3-none-any.whl (2.0 MB)
+Using cached pyinstaller-6.18.0-py3-none-win_amd64.whl (1.4 MB)
+Using cached pyinstaller_hooks_contrib-2026.0-py3-none-any.whl (452 kB)
+Installing collected packages: reportlab, pyinstaller-hooks-contrib, pyinstaller
+Successfully installed pyinstaller-6.18.0 pyinstaller-hooks-contrib-2026.0 reportlab-4.4.9
